@@ -25,7 +25,7 @@ Hassle-free (assuming you have the right OS, right Python version, etc...) judge
             #4 |   0   | incorrect         |   0.008s
     Score for this submission: 50%
 
-Supports evaluation time limits and custom test case weightings. Output format is modelled on the [orac](orac.amt.edu.au) judge.
+Supports evaluation time limits and custom test case weightings. Output format is modelled on the [orac](http://orac.amt.edu.au) judge.
 
     antares: judge\ $ python judge.py -h
     usage: judge.py [-h] [-t XX] path_to_cases in_file out_file source_file
